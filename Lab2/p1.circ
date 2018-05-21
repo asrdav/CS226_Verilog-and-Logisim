@@ -35,6 +35,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <a name="simrand" val="0"/>
   </options>
   <mappings>
+  
     <tool lib="6" map="Button2" name="Menu Tool"/>
     <tool lib="6" map="Button3" name="Menu Tool"/>
     <tool lib="6" map="Ctrl Button1" name="Menu Tool"/>
