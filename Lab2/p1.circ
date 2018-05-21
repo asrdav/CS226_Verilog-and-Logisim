@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
 <project source="2.7.1" version="1.0">
 This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
 <lib desc="#Wiring" name="0">
@@ -35,7 +36,6 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <a name="simrand" val="0"/>
   </options>
   <mappings>
-  
     <tool lib="6" map="Button2" name="Menu Tool"/>
     <tool lib="6" map="Button3" name="Menu Tool"/>
     <tool lib="6" map="Ctrl Button1" name="Menu Tool"/>
