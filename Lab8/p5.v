@@ -1,4 +1,5 @@
 // lines start with “//” is a comment
+
 // name: p5.v // gate level model
 module p5(A, m2, m1, m0); //you list all inputs and outputs, by convention outputs go first
 	output A; // this tells the compile which lines are inputs and outputs
