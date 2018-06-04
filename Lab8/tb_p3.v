@@ -1,4 +1,5 @@
 module tb_p3(); //test_bench
+	
 	reg a, b, c;
 	wire f, g, h;
 	
