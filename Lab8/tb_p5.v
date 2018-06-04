@@ -1,4 +1,5 @@
 module tb_p5();
+	
 	reg m2, m1, m0;
 	wire A;
 	
