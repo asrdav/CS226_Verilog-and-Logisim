@@ -1,4 +1,5 @@
 module tb_p7(); //test_bench
+	
 	reg[3:0] D; //array D
 	reg[1:0] S; //array S
 	wire Z; 
