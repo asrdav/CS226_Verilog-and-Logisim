@@ -1,4 +1,5 @@
 module tb_p4();
+	
 	parameter N=8;
 	reg[N-1:0] a, b;
 	wire eq, neq;
