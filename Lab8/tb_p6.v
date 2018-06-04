@@ -1,4 +1,5 @@
 module tb_p6();
+	
 	reg I1, I2, I3;
 	wire O1, O2;
 	
