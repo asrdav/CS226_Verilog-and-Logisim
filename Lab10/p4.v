@@ -1,5 +1,6 @@
 // listing all inputs and outputs, by convention outputs go first
 
+
 module p4(Intrusion_Zone, intrusion, Zone);
 	
 	output[2:0] Intrusion_Zone, intrusion; // telling the compiler which lines are inputs and outputs
