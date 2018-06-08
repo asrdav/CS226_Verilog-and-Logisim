@@ -1,4 +1,5 @@
 // listing all inputs and outputs, by convention outputs go first
+
 module p3(Result,opcode,A,B);
 output[15:0] Result;
 input [15:0] A,B;
