@@ -1,4 +1,5 @@
 module p1(g, b); //// listing all inputs and outputs, by convention outputs go first
+	
 	output [3:0]g; //gray code
 	input [3:0]b; //binary code
 	//conversion
