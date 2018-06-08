@@ -1,6 +1,7 @@
 // listing all inputs and outputs, by convention outputs go first
 
 module p2(Y, S, clk);
+	
 	output Y;  	// telling the compiler which lines are inputs and outputs
 	input clk, S;
 	reg Y;
