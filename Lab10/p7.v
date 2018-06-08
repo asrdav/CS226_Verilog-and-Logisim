@@ -1,6 +1,7 @@
 //all inputs and outputs, by convention outputs go first
 
 module p7(out, zf, read_addr1, read_addr2, wa, dIn, wrCtrl, mxCtrl, opn, clk);
+	
 	input[4:0] read_addr1, read_addr2, wa;
 	input[15:0] dIn;					// Input data
 	input wrCtrl, mxCtrl;				// Write and MUX control
