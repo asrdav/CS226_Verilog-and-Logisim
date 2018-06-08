@@ -1,6 +1,7 @@
 //listing all inputs and outputs, by convention outputs go first
 
 module decade_counter(q, clk);
+	
 	output reg[3:0] q = 0;			// telling the compiler which lines are inputs and outputs
 	input clk;
 	always @(posedge clk)
