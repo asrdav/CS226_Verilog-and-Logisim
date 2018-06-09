@@ -1,4 +1,3 @@
-
 module tb_p3(); //test_bench
 	wire[15:0] Result;
 	reg [15:0] A,B;
