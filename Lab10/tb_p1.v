@@ -1,4 +1,5 @@
 module tb_p1(); //test_bench
+	
 	wire [3:0]G; 
 	reg [3:0]B;
 	integer i;
