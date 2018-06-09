@@ -1,5 +1,4 @@
 // Test bench for p2.v
-
 module tb_p2();
 	reg clk = 0, S;
 	integer i;
