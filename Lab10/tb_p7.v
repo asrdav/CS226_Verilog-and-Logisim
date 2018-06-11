@@ -1,5 +1,4 @@
 // Test bench
-
 module tb_p7();
 	wire[15:0] out;
 	wire flag;
