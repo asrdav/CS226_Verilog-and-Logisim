@@ -1,4 +1,5 @@
 module tb_decade_counter();
+	
 	wire [3:0]q;
 	reg clk = 0;
 	decade_counter UUT(q, clk);
