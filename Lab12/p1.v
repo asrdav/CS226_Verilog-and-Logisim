@@ -1,4 +1,5 @@
 module p1(Y,curr_state,clk,reset,inp); //module declaration with inputs and outputs
+	
 	output Y;
 	input clk, reset,inp;
 	output [2:0] curr_state;
