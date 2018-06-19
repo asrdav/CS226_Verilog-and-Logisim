@@ -1,4 +1,5 @@
 module p2(output reg [3:0]Q, output upper, input reset, input clk); //counter module with inputs and outputs
+	
 	always@(posedge clk)
 	begin
 		if(reset) //reset
