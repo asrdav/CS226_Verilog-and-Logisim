@@ -1,3 +1,4 @@
+
 module add_sub(V,s,cout,sel,A,B);
 input [3:0] A, B; // Declaration of two four-bit inputs
 input sel; // and the one-bit input carry
