@@ -1,4 +1,3 @@
-
 module tb_dff();
 reg d,reset; // Declaration of input
 reg clk=0;
