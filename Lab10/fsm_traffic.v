@@ -1,3 +1,4 @@
+
 module fsm_trafic_light(clk,reset, red,yellow, green);
 input clk, reset;
 //output [1:0] state;
