@@ -1,3 +1,4 @@
+
 module ALU(Result,zeroflag, opcode,A,B);
 output[7:0] Result;
 output zeroflag;
