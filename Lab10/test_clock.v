@@ -1,3 +1,4 @@
+
 module test_clock();
 parameter half_cycle = 50;
 reg clock;
