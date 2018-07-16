@@ -1,3 +1,4 @@
+
 module mux(out, in1, in2, cntrl);
 output [15:0]out;
 input [15:0] in1, in2;
