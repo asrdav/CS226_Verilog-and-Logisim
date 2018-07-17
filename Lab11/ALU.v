@@ -1,3 +1,4 @@
+
 module ALU(Result,opcode,A,B);
 output[15:0] Result;
 input [15:0] A,B;
