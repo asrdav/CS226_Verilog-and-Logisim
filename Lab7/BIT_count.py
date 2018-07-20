@@ -1,6 +1,5 @@
 import RPi.GPIO as GPIO
 import time
-
 #Setting up script to use the right pin configuration
 GPIO.setmode(GPIO.BCM)
 GPIO.setwarnings(False)
