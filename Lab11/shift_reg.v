@@ -1,4 +1,5 @@
 module Shif_reg4 (Data_out, Data_In, clock, reset); 
+
 output Data_out; 
 input Data_In, clock, reset; 
 reg [3: 0] Data_reg; 
