@@ -1,4 +1,3 @@
-
 module counter (C_OUT,CLK,reset);	
   output 	[3: 0] 	C_OUT;
   input 	CLK,reset;
