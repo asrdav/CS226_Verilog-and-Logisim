@@ -1,4 +1,5 @@
 module Seven_Seg_Display (Display, BCD); 
+
 output [6: 0] Display; 
 input [3: 0] BCD; 
 reg [6: 0] Display; 
