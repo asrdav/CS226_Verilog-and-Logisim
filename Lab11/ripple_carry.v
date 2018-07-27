@@ -1,5 +1,5 @@
 module ripple_carry(s,cout,cin,A,B);
-  rip
+  
 input [3:0] A, B; // Declaration of two four-bit inputs
 input cin; // and the one-bit input carry
 output [3:0] s; // Declaration of the five-bit outputs
