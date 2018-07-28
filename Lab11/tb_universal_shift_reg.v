@@ -1,6 +1,4 @@
-
 module tb_Universal_Shift_Reg(); 
-
 reg [3: 0] Data_In; 
 reg MSB_In, LSB_In,s1, s0, reset; 
 reg clk=0; 
